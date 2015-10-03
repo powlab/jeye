@@ -1,0 +1,9 @@
+.idea
+*.iml
+.classpath
+.project
+.settings/*
+target/*
+doc/*.~*
+.DS_Store
+.DS_Store?
